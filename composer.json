@@ -1,6 +1,6 @@
 {
     "name": "fredjuvaux/silex-geoip2",
-    "description": "GeoIP2 extension for Silex",
+    "description": "MaxMind GeoIP2 for Silex",
     "keywords": ["geoip", "geoip2", "maxmind"],
     "homepage": "https://github.com/fredjuvaux/silex-geoip2",
     "type": "library",
