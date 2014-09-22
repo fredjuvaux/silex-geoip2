@@ -1,0 +1,27 @@
+{
+    "name": "fredjuvaux/silex-geoip2",
+    "description": "GeoIP2 extension for Silex",
+    "keywords": ["geoip", "geoip2", "maxmind"],
+    "homepage": "https://github.com/fredjuvaux/silex-geoip2",
+    "type": "library",
+    "license": "MIT",
+    "version": "dev",
+    "authors": [
+        {
+            "name": "Fred Juvaux",
+            "homepage": "https://fredjuvaux.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "silex/silex": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "SilexGeoIP": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
